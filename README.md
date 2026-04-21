@@ -359,8 +359,8 @@ Bloc 3 : Piloter l'informatique décisionnelle d'un S.I. (Big Data & BI)
 ---
 
 ## 14. Équipe projet
-
-À compléter.
+Romaric TCHOFFO
+Emmanuel AMEGA
 
 ---
 
